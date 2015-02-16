@@ -2,7 +2,7 @@
 
 title:            carlhicks[dot]me
 locale:           en_US
-url:              http://carlhicks.me  http://localhost:4000
+url:              http://carlhicks.me  #http://localhost:4000
 
 
 # Jekyll configuration
