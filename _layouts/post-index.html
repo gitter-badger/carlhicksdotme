@@ -34,7 +34,7 @@
 
 <div id="index">
   <h1>{{ page.title }}</h1>
-  {% for post in site.posts %}  
+  {% for post in site.posts %}
   {% unless post.next %}
     <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
@@ -49,7 +49,7 @@
       <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
 	<p><strong>{{ post.date | date: '%m/%d/%Y' }}</strong></p>
 
-	<!--- Testing a layout fix     
+	<!--- Testing a layout fix
 	<h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
 		/--->
 
@@ -69,6 +69,6 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
-  
+
 </body>
 </html>

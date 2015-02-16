@@ -2,15 +2,15 @@
 layout: page
 title: "About Carl"
 tags: [about, Jekyll]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2014-08-08T20:53:07.573882-05:00
 comments: false
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 ---
 
-Born in Pittsburgh, PA, Carl was raised in Boca Raton, FL. Post undergrad, he worked in the corporate IT space, as consultant, on enterpise middleware solutions, mostly in the midwest.
+Born in Pittsburgh, PA, Carl was raised in Boca Raton, FL. Post undergrad, he worked in the corporate IT space, as a consultant, on enterpise middleware solutions, mostly in the midwest.
 
 ## Some of my skills include:
 
