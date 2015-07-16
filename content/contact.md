@@ -6,7 +6,7 @@ title = "contact"
 +++
 
 ### twitter
-[@__hickscarl__](https://twitter.com/__hickscarl__)  
+[@\__hickscarl\__](https://twitter.com/__hickscarl__)  
 
 
 ### irc
