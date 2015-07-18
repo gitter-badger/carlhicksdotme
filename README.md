@@ -1,6 +1,6 @@
-# My personal Blog
+# My personal Site
 
-This a repo for a rebuild of my personal blog.
+This a repo for a rebuild of my personal site.
 
 Curretly building this site with [Hugo](http://gohugo.io).
 
