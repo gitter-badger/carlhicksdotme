@@ -1,0 +1,26 @@
+baseurl = "http://carlhicks.me/"
+languageCode = "en-us"
+title = "carlhicks[dot]me"
+
+[indexes]
+    category = "categories"
+    tag = "tags"
+
+[params]
+    copyright = "Copyright © 2013-2015 - Carl Hicks - All rights reserved."
+    author = "Carl H."
+
+[[menu.main]]
+    name = "resume"
+    url = "/resume/"
+    weight = 1
+
+[[menu.main]]
+    name = "contact info"
+    url = "/contact/"
+    weight = 1
+
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 0
