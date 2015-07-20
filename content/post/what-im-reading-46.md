@@ -5,7 +5,7 @@ title = "WHAT I'M READING"
 
 +++
 
-####Things I'm reading this week:
+### Things I'm reading this week:
 
 [ _Ello Says You're Not a Product, But You Are_ ](http://www.theatlantic.com/technology/archive/2014/09/ello-says-youre-not-a-product-but-you-are/380809/) - @ [**The Atlantic**](http://www.theatlantic.com/) by [Rose Eveleth](http://www.roseveleth.com/about)
 <br>

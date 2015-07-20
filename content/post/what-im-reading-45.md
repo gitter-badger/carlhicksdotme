@@ -5,7 +5,7 @@ title = "WHAT I'M READING"
 
 +++
 
-####Things I'm reading this week:
+### Things I'm reading this week:
 
 [ _A dozen things I’ve learned from Vinod Khosla_ ](http://www.khoslaventures.com/a-dozen-things-ive-learned-from-vinod-khosla) - @ [**Point Of View**](http://www.khoslaventures.com/topic/featured) (Khosla Ventures' "blag/option page") by [Tren Griffin](http://25iq.com/)
 <br>

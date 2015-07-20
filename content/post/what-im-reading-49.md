@@ -5,7 +5,7 @@ title = "WHAT I'M READING"
 
 +++
 
-####Things I'm reading this week:
+### Things I'm reading this week:
 
 [ _Ebola in graphics: The toll of a tragedy_ ](http://www.economist.com/blogs/graphicdetail/2014/10/ebola-graphics?fsrc=nlw%7Cnewe%7C13-10-2014%7CNA#) @ [ **The Economist**](http://economist.com) by Economist.com
 <br>

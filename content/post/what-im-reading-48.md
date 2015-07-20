@@ -1,11 +1,11 @@
 +++
-date = "10-10-2014T11:15:05-05:00"
+date = "2014-10-10T11:15:05-05:00"
 draft = false
 title = "WHAT I'M READING"
 
 +++
 
-####Things I'm reading this week:
+### Things I'm reading this week:
 
 [ _Why Broadcast Journalism Is Flirting With Jon Stewart_ ](http://www.theatlantic.com/politics/archive/2014/10/why-broadcast-journalism-is-flirting-with-jon-stewart/381286/) @ [**The Alantic**](http://theatlantic.com/) by [Conor Friedersdorf](https://twitter.com/conor64)
 <br>

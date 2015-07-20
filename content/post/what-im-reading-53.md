@@ -5,7 +5,7 @@ title = "WHAT I'M READING"
 
 +++
 
-####Things I'm reading this week:
+### Things I'm reading this week:
 
 [ _Double trouble for Apple, as two software security flaws discovered_ ](http://www.theguardian.com/technology/2014/nov/06/apple-mac-iphone-security-malware) @ [**The Guardian**](http://theguardian.com) by [Alex Hern](https://twitter.com/alexhern)
 <br>

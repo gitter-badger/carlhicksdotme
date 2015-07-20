@@ -5,7 +5,7 @@ title = "WHAT I'M READING"
 
 +++
 
-####Things I'm reading this week:
+### Things I'm reading this week:
 
 [ _Vietnam’s Neuroscientific Legacy_ ](http://www.newyorker.com/tech/elements/vietnam-war-veteran-neuroscientific-legacy) @ [**The New Yorker**](http://newyorker.com/) by [Emily Anthest](http://emilyanthes.com/index.php?id=bio)
 <br>
