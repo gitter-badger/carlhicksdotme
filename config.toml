@@ -22,5 +22,5 @@ title = "carlhicks[dot]me"
 
 [[menu.main]]
     name = "blog"
-    url = "/post/"
+    url = "/blog/"
     weight = 0
