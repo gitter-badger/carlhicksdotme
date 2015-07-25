@@ -8,5 +8,3 @@ type = "resume"
 High energy self-starter, backend developer, focused on yielding problem-solving tactics to improve effectiveness and efficiency to any job platform. I strive to in taking a customer focused approach in designing and delivering services and products that solve problems and deliver the best customer experience.
 
 I am striving to be more involved in automation and system administration ('devops') to help in building/turning performance, infrastructure, and scaling large applications.
-
-I have always had a keen interest in programming and happy to learn new techniques as well as programming languages.
