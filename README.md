@@ -14,14 +14,14 @@ Curretly building this site with [Hugo](http://gohugo.io).
 
 [Install Hugo](http://gohugo.io/overview/installing/) and run the local server by issuing this command
 ```
-$ hugo server --theme=liquorice --buildDrafts --watch
+$ hugo server --theme=blackAndWhite --buildDrafts --watch
 ```
 
 ## Generate the public site
 
 Generate only published pages with this command
 ```
-$ hugo -t liquorice
+$ hugo -t blackAndWhite
 ```
 
 For Other Hugo features and how-to information see the documenation: [Hugo Doc's](http://gohugo.io/overview/introduction/)
