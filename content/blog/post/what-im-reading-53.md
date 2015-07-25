@@ -7,7 +7,7 @@ title = "WHAT I'M READING"
 
 ### Things I'm reading this week:
 
-[ _Double trouble for Apple, as two software security flaws discovered_ ](http://www.theguardian.com/technology/2014/nov/06/apple-mac-iphone-security-malware) @ [**The Guardian**](http://theguardian.com) by [Alex Hern](https://twitter.com/alexhern)
+[ _Double trouble for Apple, as two software security flaws discovered_ ](http://www.theguardian.com/technology/2014/nov/06/apple-mac-iphone-security-malware) @ [**The Guardian**](http://theguardian.com) by [Alex Hern](https://twitter.com/alexhern)  
 <br>
 <br>
 [ _Tim Cook Speaks Up_ ](http://www.businessweek.com/articles/2014-10-30/tim-cook-im-proud-to-be-gay) @ [**Businesweek**](http://businessweek.com) by [Tim Cook](http://www.apple.com/pr/bios/tim-cook.html)
