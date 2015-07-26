@@ -2,7 +2,6 @@
 date = "2013-11-15T12:28:27-05:00"
 draft = false
 title = "HELLO WORLD"
-
 +++
 
 ## My 'Hello World' post

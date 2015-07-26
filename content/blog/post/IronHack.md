@@ -2,7 +2,6 @@
 date = "2015-01-15T09:15:10-05:00"
 draft = false
 title = "IRONHACK"
-
 +++
 
 <center><img src="/images/IH_logo.jpg"></center>
