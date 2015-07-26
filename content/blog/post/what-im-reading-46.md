@@ -23,8 +23,7 @@ title = "WHAT I'M READING"
 <br>
 <br>
 [One Nation: What We Can All Do to Save America's Future](http://www.amazon.com/One-Nation-What-Americas-Future/dp/1595231129?tag=thenewyorktim-20) - by [**Ben Carson M.D.**](http://realbencarson.com/about/), **Candy Carson**[^1]
-
-
-------
+<br>
+<br>
 
 [^1]:I did not intentionally not link to a bio for Ms Carson but couldn't find one.
