@@ -2,16 +2,17 @@
 date = "2014-09-11T01:14:37-05:00"
 draft = false
 title = "UPDATING MOBILE JEKYLL SCRIPT"
-
 +++
 
 This is some quick followup to a previous post ['MOBILE JEKYLL POSTING'](/blog/post/mobile-jekyll-posting/). I just wanted to go into a little more detail and show some changes I made to [Malphas Wats'](http://github.com/MalphasWats) script to [Post to GitHub Pages from Editorial](https://gist.github.com/MalphasWats/7977513).
-<br><br>
-A quick review:
-<br><br>
-I wanted the ability to post from my iOS devices, after searching around and reading [Steven Combs'](http://github.com/stevencombs) post ['Post to a Jekyll blog from an iPad'](http://www.stevencombs.com/web/2014/07/01/post-to-a-jekyll-blog-from-an-ipad.html) and finding Malphas Wats' script I realized had excatly what I needed on my devices already (Editorial + python script).
-<br><br>
-
+<br>
+<br>
+A quick recap:
+<br>
+<br>
+I wanted the ability to create and post to my blog from my iOS devices. After searching around and reading [Steven Combs'](http://github.com/stevencombs) post ['Post to a Jekyll blog from an iPad'](http://www.stevencombs.com/web/2014/07/01/post-to-a-jekyll-blog-from-an-ipad.html) and finding Malphas Wats' script, I realized had everything I needed on my devices already (Editorial + python script).
+<br>
+<br>
 ### The script:
 
 So first things first, I had to doctor Wats' script, to [Post to GitHub Pages from Editorial](https://gist.github.com/MalphasWats/7977513)[^1], to fix a few things I did not like.[^2]
@@ -42,12 +43,12 @@ First I took out lines 16 - 35 because I'm only posting to one repository/blog a
 35:   	keychain.set_password('GitHub', 'repository', repo)
 ```
 <br>
-_I replaced this code with the following, to set the varables for my github credentials:_
+_I replaced this code with the following, to set the variables for my github credentials:_
 <br>
 ```python
 15:   username = 'your github username'
 16:   tokn = 'your github API token'
-17:   repository = 'you git hub repostory where you site is stored'
+17:   repository = 'your github repository where your site is stored'
 ```
 The other change I made was on line 42[^3] which set the default file type, being pushed to github, from .markdown to .md.[^4]
 <br>
@@ -64,7 +65,7 @@ _Changed .markdown to .md_
 
 ### Editorial Setup
 
-For those of you who have used Editorial's workflows this is pretty stright forward what you'd do with the script but for those who haven't just follow along.
+For those of you who have used Editorial's workflows this is pretty straight forward what you'd do with the script but for those who haven't just follow along.
 <br>
 <br>
 I suggest creating a post to test with before starting. Then you will click the wrench in the two right conner to enter the workflow panel. Once in the workflow panel you will want to create a new workflow by clicking on the '+' in the top left conner.
@@ -90,7 +91,7 @@ At this point your set.
 <br>
 
 <!-- footnotes -->
-[^1]:I've forked Wats’ gist and made the changes which can be found at [Link](http://gist.github.com/hicksca/be56fc6cbff13e559e7c)
+[^1]:I have forked Wats’ gist and made the changes which can be found at [Link](http://gist.github.com/hicksca/be56fc6cbff13e559e7c)
 [^2]:I would post the entire script but it doesn't visually look good in the post due to the length.
-[^3]:Remeber that I've removed lines of code from the script if your looking at the original it will be at line 58.
-[^4]:This doesn't have to be changed and will work just fine but for continuity purposes I made the change. I prefer the .md file type so all my other post are saved as .md files and I did not want to have two different file types living in this directory.
+[^3]:Remeber that I have removed lines of code from the script if your looking at the original it will be at line 58.
+[^4]:This does not have to be changed and will work just fine but for continuity purposes I made the change. I prefer the .md file type so all my other post are saved as .md files and I did not want to have two different file types living in this directory.

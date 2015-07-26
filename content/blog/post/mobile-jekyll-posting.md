@@ -2,7 +2,6 @@
 date = "2014-09-09T12:28:27-05:00"
 draft = false
 title = "MOBILE JEKYLL POSTING"
-
 +++
 
 After finally getting off my hands and creating a personal blog, I choose to go with Jekyll hosted on github pages.
@@ -13,6 +12,7 @@ My main goal with this project was to get  ideas out when 140 characters would n
 <br>
 <br>
 Malphas Wats had a [github gist](https://gist.github.com/MalphasWats/7977513) with the Python script I needed to push my post to github and a [TextExpander](http://smilesoftware.com/TextExpander/touch/index.html)[^1] snippet to handled my ymal headers.[^2]
-
+<br>
+<br>
 [^1]:This post was to test the above work flow from my iPhone.
-[^2]:I used TextExpander rather then configuring a template in Editorial to have continuity in my workflow. (I use Textexpander snippets for formating ymal on my computers)
+[^2]:I used TextExpander rather then configuring a template in Editorial to have continuity in my workflow. (I use Textexpander snippets for formatting ymal on my computers)
