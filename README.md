@@ -3,11 +3,11 @@
 
 [![Build Status](https://semaphoreci.com/api/v1/projects/6b75b67a-b199-41bc-9844-41a2303fdc17/493481/badge.svg)](https://semaphoreci.com/hicksca/carlhicksdotme)
 
-This is a repo for a rebuild of my personal site.
+This repository is the source [hugo](http://gohugo.io) uses to build my personal site.
 
 Curretly building this site with [Hugo](http://gohugo.io).
 
-(You can find my current blog at [carlhicke.me](http://carlhicks.me))
+(You can find my current blog at [carlhicke.me](http://carlhicks.me/blog/))
 
 ---
 
