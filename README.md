@@ -1,4 +1,4 @@
-# My personal Site
+# My Personal Site
 
 [![Build Status](https://semaphoreci.com/api/v1/projects/6b75b67a-b199-41bc-9844-41a2303fdc17/493481/badge.svg)](https://semaphoreci.com/hicksca/carlhicksdotme)
 
