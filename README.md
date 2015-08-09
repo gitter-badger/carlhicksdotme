@@ -1,7 +1,7 @@
+[ ![Codeship Status for hicksca/carlhicksdotme](https://codeship.com/projects/3e780830-2079-0133-e425-0eade5a669ff/status?branch=master)](https://codeship.com/projects/95698)
+
 # My Personal Site
 ##### https://carlhicks.me
-
-[![Build Status](https://semaphoreci.com/api/v1/projects/6b75b67a-b199-41bc-9844-41a2303fdc17/493481/badge.svg)](https://semaphoreci.com/hicksca/carlhicksdotme)
 
 This repository is the source [hugo](http://gohugo.io) uses to build my personal site.
 
