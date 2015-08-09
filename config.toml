@@ -16,8 +16,13 @@ title = "carlhicks[dot]me"
     weight = 1
 
 [[menu.main]]
-    name = "contact info"
+    name = "contact"
     url = "/contact/"
+    weight = 1
+
+[[menu.main]]
+    name = "code"
+    url = "https://github.com/hicksca"
     weight = 1
 
 [[menu.main]]
