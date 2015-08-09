@@ -1,3 +1,4 @@
 config.toml
-public/
-static/images
+/public/
+/static/images
+/test/
